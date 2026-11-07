@@ -1,4 +1,4 @@
-# Canal Star Tech — STM32F103C8T6 Development Board
+# Canal Star Tech - STM32F103C8T6 Development Board
 
 A custom STM32F103C8T6 development-board design created in KiCad as a hands-on electronics and PCB-design learning project.
 
